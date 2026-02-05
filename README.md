@@ -18,6 +18,8 @@ This project implements **Enhanced game feedback** (additional visual feedback b
 - Winning-line highlight (winning cells visually highlighted)
 - Draw feedback (all cells receive a subtle draw tint)
 
+Github pages URL : Github Pages: https://alexandralheureuxece.github.io/lab-1-relkadr/
+
 ## Run Locally
 This is a plain HTML/CSS/JavaScript project (no build step).
 
